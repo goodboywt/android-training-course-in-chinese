@@ -91,7 +91,7 @@ Google Android团队在2012年的时候开设了**Android Training**板块 - <ht
    * [创建表盘](http://hukai.me/android-training-course-in-chinese/wearables/watch-faces/index.html) - @[heray1990](https://github.com/heray1990)
    * [位置检测](http://hukai.me/android-training-course-in-chinese/wearables/location/wear-location-detection.html) - @[heray1990](https://github.com/heray1990)
 * [Android企业级应用](http://hukai.me/android-training-course-in-chinese/enterprise/index.html)
-   * [Ensuring Compatibility with Managed Profiles](http://hukai.me/android-training-course-in-chinese/enterprise/app-compatibility.html) - @2015/03/14 - 待认领
+   * [Ensuring Compatibility with Managed Profiles](http://hukai.me/android-training-course-in-chinese/enterprise/app-compatibility.html) - @[goodboywt](https://github.com/goodboywt)
    * [Implementing App Restrictions](http://hukai.me/android-training-course-in-chinese/enterprise/app-restrictions.html) - @2015/03/14 - 待认领
    * [Building a Work Policy Controller](http://hukai.me/android-training-course-in-chinese/enterprise/work-policy-ctrl.html) - @2015/03/14 - 待认领
 * [Android TV应用](http://hukai.me/android-training-course-in-chinese/building-tv.html)
